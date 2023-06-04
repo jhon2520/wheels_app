@@ -1,0 +1,33 @@
+Legalidad
+
+Información normas de transito
+Vencimiento papeles importantes
+Elementos de protección personal
+Manuales
+
+
+Usuario
+
+Agregar Matrícula
+Agregar datos de usuario
+Foto de la moto
+Historial de cambios hechos por el usuario (logs)
+
+
+Talleres y gruas
+
+Agregar información de taller
+Agregar información de grúas
+taller y gruas almacenadas
+
+
+Mi Moto
+
+
+Alertas de cambios cercanos
+Enviar información a correo
+Desgaste de piezas
+registro de revisiones, costos, fecha etc
+Cambiar kilometra
+Manual moto
+Información repuestos
